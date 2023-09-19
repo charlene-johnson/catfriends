@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'catregular';
+    src: url('./cat.woff2') format('woff2'),
+        url('./cat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    font-family: 'catregular';
+    font-weight: 500;
+    color: #ffa3d7;
+}
