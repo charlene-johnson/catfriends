@@ -2,7 +2,7 @@ import {useState, useEffect} from 'react'
 import CardList from '../components/CardList.jsx'
 import SearchBox from '../components/SearchBox.jsx'
 import Scroll from '../components/Scroll.jsx'
-import ErrorBoundary from '../components/ErrorBoundary.jsx'
+import ErrorBoundary from '../components/OldErrorBoundary.jsx'
 import './App.css';
 
 function App() {
