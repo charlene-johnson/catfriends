@@ -6,7 +6,7 @@ import ErrorBoundary from '../components/OldErrorBoundary.jsx'
 import './App.css';
 
 
-class App extends Component {
+class OldApp extends Component {
     constructor() {
         super()
         this.state = {
@@ -47,4 +47,4 @@ class App extends Component {
     }
 
 
-export default App
+export default OldApp
